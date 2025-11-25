@@ -30,6 +30,9 @@ It is fully responsive and designed with clean UI.
 
 ## 📂 Project Structure
 ├── index.html
+
 ├── style.css
+
 ├── script.js 
+
 ├── assets/image
